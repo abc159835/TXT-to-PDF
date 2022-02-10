@@ -6,5 +6,5 @@
         对与章节拆分,支持章节一定位于页首!
         每面都有页码,页眉会显示当前章节名.
 使用方法:首先从网络中获取"wkhtmltopdf.exe"放在软件运行目录,其次将css.html(位于根目录)文件放在软件运行目录,最后在软件运行目录创建"html"文件夹.
-#于https://wkhtmltopdf.org/获取"wkhtmltopdf.exe"
+#于https://wkhtmltopdf.org/ 获取"wkhtmltopdf.exe"
 原理:先将txt文件 转为 html文件 再转为PDF文件
