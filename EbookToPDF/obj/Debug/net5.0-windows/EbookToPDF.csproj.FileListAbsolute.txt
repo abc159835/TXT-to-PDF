@@ -1,0 +1,17 @@
+C:\Users\abc15\source\repos\EbookToPDF\EbookToPDF\bin\Debug\net5.0-windows\EbookToPDF.exe
+C:\Users\abc15\source\repos\EbookToPDF\EbookToPDF\bin\Debug\net5.0-windows\EbookToPDF.deps.json
+C:\Users\abc15\source\repos\EbookToPDF\EbookToPDF\bin\Debug\net5.0-windows\EbookToPDF.runtimeconfig.json
+C:\Users\abc15\source\repos\EbookToPDF\EbookToPDF\bin\Debug\net5.0-windows\EbookToPDF.runtimeconfig.dev.json
+C:\Users\abc15\source\repos\EbookToPDF\EbookToPDF\bin\Debug\net5.0-windows\EbookToPDF.dll
+C:\Users\abc15\source\repos\EbookToPDF\EbookToPDF\bin\Debug\net5.0-windows\ref\EbookToPDF.dll
+C:\Users\abc15\source\repos\EbookToPDF\EbookToPDF\bin\Debug\net5.0-windows\EbookToPDF.pdb
+C:\Users\abc15\source\repos\EbookToPDF\EbookToPDF\obj\Debug\net5.0-windows\EbookToPDF.Form1.resources
+C:\Users\abc15\source\repos\EbookToPDF\EbookToPDF\obj\Debug\net5.0-windows\EbookToPDF.csproj.GenerateResource.cache
+C:\Users\abc15\source\repos\EbookToPDF\EbookToPDF\obj\Debug\net5.0-windows\EbookToPDF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abc15\source\repos\EbookToPDF\EbookToPDF\obj\Debug\net5.0-windows\EbookToPDF.AssemblyInfoInputs.cache
+C:\Users\abc15\source\repos\EbookToPDF\EbookToPDF\obj\Debug\net5.0-windows\EbookToPDF.AssemblyInfo.cs
+C:\Users\abc15\source\repos\EbookToPDF\EbookToPDF\obj\Debug\net5.0-windows\EbookToPDF.csproj.CoreCompileInputs.cache
+C:\Users\abc15\source\repos\EbookToPDF\EbookToPDF\obj\Debug\net5.0-windows\EbookToPDF.dll
+C:\Users\abc15\source\repos\EbookToPDF\EbookToPDF\obj\Debug\net5.0-windows\ref\EbookToPDF.dll
+C:\Users\abc15\source\repos\EbookToPDF\EbookToPDF\obj\Debug\net5.0-windows\EbookToPDF.pdb
+C:\Users\abc15\source\repos\EbookToPDF\EbookToPDF\obj\Debug\net5.0-windows\EbookToPDF.genruntimeconfig.cache
